@@ -1,6 +1,6 @@
 # Loan-prediction
 
-This projet is a machine learning project done as part of a course during my Master's Degree in Paris.
+This projet is a machine learning project done as part of a course during my Master's Degree in Paris (all in French).
 
 ## The data
 
